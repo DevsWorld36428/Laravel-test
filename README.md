@@ -17,11 +17,6 @@
 
 - Use the `/api/submit` endpoint to submit data. Example payload:
     ```json
-    {
-        "name": "John Doe",
-        "email": "john.doe@example.com",
-        "message": "This is a test message."
-    }
     ```
 
 - To run the unit tests:
